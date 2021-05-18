@@ -1,5 +1,7 @@
 # oneforall-website-beta
 
+Feel free to fork & push request
+
 ## Project setup
 ```
 npm install
