@@ -1,6 +1,6 @@
 # oneforall-website-beta
 
-Feel free to fork & push request
+Feel free to fork & pull request
 
 ## Project setup
 ```
