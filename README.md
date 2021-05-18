@@ -1,5 +1,7 @@
 # oneforall-website-beta
 
+Feel free to fork & push request
+
 ## Project setup
 ```
 npm install
@@ -7,6 +9,7 @@ npm install
 
 ### Compiles and hot-reloads for development
 ```
+cd front
 npm run serve
 ```
 
